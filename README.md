@@ -28,7 +28,7 @@ Siga estes passos simples para rodar os exercícios na sua máquina:
 4.  **Instale as Dependências:** Para que a biblioteca `prompt-sync` funcione, execute o seguinte comando para instalar as dependências do projeto:
 
     ```bash
-    npm install
+    npm install prompt-sync
     ```
 
 5.  **Execute um Exercício Específico:**
